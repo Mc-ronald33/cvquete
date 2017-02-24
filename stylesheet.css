@@ -1,0 +1,78 @@
+body{
+    background-color: rgb(104, 187, 285);
+}
+
+#container{
+     width : 960px;
+    height :   auto;
+    overflow: auto;
+    
+}
+
+#left-box{
+    padding: 5px;
+    background-color: rgb(9,30,45);
+    color: white;
+    float : left;
+    width : 280px;
+    height : auto;
+    border-radius: 25px;
+    
+}
+
+img {
+    border-radius: 80px;
+    margin-top: 30px;
+}
+
+#header{
+    text-align: center;
+    text-decoration: underline;
+}
+
+#des {
+    text-align: center;
+}
+
+.experience {
+    background-color: white;
+    border-radius: 25px;
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+#right-box {
+    float: right;
+    width : 650px;
+    height: auto;
+    
+    
+}
+
+#footer {
+       width : 550px;
+    height: 200px;
+    text-align: center;
+   
+}
+
+#structure {
+ overflow: auto;
+ width : 1200px;
+ height: auto;
+ margin-right: auto;
+ margin-left: auto;
+}
+
+.study{
+     background-color: white;
+    border-radius: 25px;
+    text-align: left;
+    height: 130px;
+    padding: 5px;
+    margin-bottom: 5px;
+}
+
+#footer{
+    text-align: center;
+}
